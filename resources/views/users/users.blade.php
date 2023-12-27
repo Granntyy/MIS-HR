@@ -43,7 +43,6 @@
                       <th>Gender</th>
                       <th>Phone</th>
                       <th>Email</th>
-                      <thead></thead>
                     </tr>
                   </thead>
                   <tbody>
@@ -60,7 +59,7 @@
                 </table>
               </div>
             </div>
-          </div> 
+          </div>
         </div>
     </div>
     <!-- /.row -->
